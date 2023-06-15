@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
 
 body {
-    background-image: url(https://www.uscreen.tv/wp-content/uploads/2021/02/royalty-free-music.png);
+    background-image: url("https://www.uscreen.tv/wp-content/uploads/2021/02/royalty-free-music.png");
     color: white;
     height: 100vh;
     font-family: 'Tilt Prism', cursive;
